@@ -1,0 +1,9 @@
+payload:
+  # > Private Tracker
+  - DOMAIN-SUFFIX,acg.rip
+
+  # > Microsoft
+  - DOMAIN-SUFFIX,msn.com
+
+  # > Thunderstore
+  - DOMAIN-KEYWORD,thunderstore
