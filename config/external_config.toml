@@ -19,7 +19,7 @@ rule = [
     "[]⚡ Auto",
     "[]🌐 Servers",
     "[]🇭🇰 Hong Kong",
-    "[]🇹🇼 Taiwan",
+    "[]🇨🇳 Taiwan",
     "[]🇯🇵 Japan",
     "[]🇸🇬 Singapore",
     "[]🇺🇸 United States",
@@ -53,7 +53,7 @@ rule = [
     "[]🎯 Direct",
     "[]✨ Proxy",
     "[]🇭🇰 Hong Kong",
-    "[]🇹🇼 Taiwan",
+    "[]🇨🇳 Taiwan",
     "[]🇯🇵 Japan",
     "[]🇸🇬 Singapore",
     "[]🇺🇸 United States",
@@ -88,7 +88,7 @@ rule = [
     "[]✨ Proxy",
     "[]🎯 Direct",
     "[]🇭🇰 Hong Kong",
-    "[]🇹🇼 Taiwan",
+    "[]🇨🇳 Taiwan",
     "[]🇯🇵 Japan",
     "[]🇸🇬 Singapore",
     "[]🌎 Misc Regions",
@@ -101,7 +101,7 @@ rule = [
     "[]🇺🇸 United States",
     "[]✨ Proxy",
     "[]🇭🇰 Hong Kong",
-    "[]🇹🇼 Taiwan",
+    "[]🇨🇳 Taiwan",
     "[]🇯🇵 Japan",
     "[]🇸🇬 Singapore",
     "[]🌎 Misc Regions",
@@ -117,7 +117,7 @@ rule = [
     "[]⚡ Auto",
     "[]🌐 Servers",
     "[]🇭🇰 Hong Kong",
-    "[]🇹🇼 Taiwan",
+    "[]🇨🇳 Taiwan",
     "[]🇯🇵 Japan",
     "[]🇸🇬 Singapore",
     "[]🇺🇸 United States",
@@ -151,7 +151,7 @@ rule = [
 ]
 
 [[custom_groups]]
-name = "🇹🇼 Taiwan"
+name = "🇨🇳 Taiwan"
 type = "url-test"
 url = "http://www.gstatic.com/generate_204"
 interval = 300
@@ -251,7 +251,7 @@ group = "🇭🇰 Hong Kong"
 ruleset = "https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Region/HK.list"
 
 [[rulesets]]
-group = "🇹🇼 Taiwan"
+group = "🇨🇳 Taiwan"
 ruleset = "https://cdn.jsdelivr.net/gh/DivineEngine/Profiles@master/Surge/Ruleset/StreamingMedia/Region/TW.list"
 
 [[rulesets]]
@@ -280,7 +280,7 @@ ruleset = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Downlo
 
 [[rulesets]]
 group = "🚫 Ads Blocking"
-ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list"
+ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising_All.list"
 
 [[rulesets]]
 group = "🎯 Direct"
