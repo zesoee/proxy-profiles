@@ -2,15 +2,13 @@
 enable_rule_generator = true
 overwrite_original_rules = true
 
-clash_rule_base = ""
-surfboard_rule_base = ""
-quanx_rule_rule_base = ""
+surfboard_rule_base = "https://raw.githubusercontent.com/zesoee/proxy-profiles/main/config/base/surfboard.conf"
 
 add_emoji = true
 remove_old_emoji = true
 
 [[emojis]]
-import = ""
+import = "https://raw.githubusercontent.com/zesoee/proxy-profiles/main/config/snippets/emoji.toml"
 
 [[custom_groups]]
 name = "✨ Proxy"
