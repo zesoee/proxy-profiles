@@ -4,7 +4,7 @@ version = 1
 enable_rule_generator = true
 overwrite_original_rules = true
 
-clash_rule_base = "https://raw.githubusercontent.com/zesoee/proxy-profiles/main/config/base/clash_meta.yaml"
+clash_rule_base = "https://raw.githubusercontent.com/zesoee/proxy-profiles/feat/support-clash-meta/config/base/clash_meta.yaml"
 surfboard_rule_base = "https://raw.githubusercontent.com/zesoee/proxy-profiles/main/config/base/surfboard.conf"
 
 add_emoji = true
