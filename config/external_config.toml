@@ -9,7 +9,7 @@ surfboard_rule_base = "https://raw.githubusercontent.com/zesoee/proxy-profiles/m
 add_emoji = true
 remove_old_emoji = true
 
-[[emojis]]
+[[emoji]]
 import = "https://raw.githubusercontent.com/zesoee/proxy-profiles/main/config/snippets/emoji.toml"
 
 [[custom_groups]]
