@@ -1,10 +1,10 @@
 [[emoji]]
-match = "(流量|套餐|剩余|重置|到期|时间|应急|过期|Bandwidth|expire|Traffic|Reset|Until|traffic)"
-emoji = "🏳️‍🌈"
-
-[[emoji]]
 match = "(流量|套餐|剩余|重置|到期|时间|应急|过期|expire|Reset|Until)"
 emoji = "🏴‍☠️"
+
+[[emoji]]
+match = "(流量|套餐|剩余|重置|到期|时间|应急|过期|Bandwidth|expire|Traffic|Reset|Until|traffic)"
+emoji = "🏳️‍🌈"
 
 [[emoji]]
 match = "(安道尔|AD|AND|Andorra)"
