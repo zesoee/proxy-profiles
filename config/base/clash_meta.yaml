@@ -109,10 +109,13 @@ dns:
     - +.media.dssott.com
     - +.pvp.net
   nameserver:
-    - https://doh.pub/dns-query
+    - https://1.12.12.12/dns-query
+    - https://120.53.53.53/dns-query
     - https://dns.alidns.com/dns-query
+
   proxy-server-nameserver:
-    - https://doh.pub/dns-query
+    - https://1.12.12.12/dns-query
+    - https://120.53.53.53/dns-query
   fallback:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
