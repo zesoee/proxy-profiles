@@ -1,5 +1,5 @@
 [[emoji]]
-match = "(流量|套餐|剩余|重置|到期|时间|应急|过期|expire|Reset|Until)"
+match = "(到期|时间|过期|Expire|expire|Reset|Until)"
 emoji = "🏴‍☠️"
 
 [[emoji]]
@@ -172,7 +172,7 @@ emoji = "🇺🇸"
 
 [[emoji]]
 match = "(台湾|TWN|TW|Taiwan|TAIWAN|台北|台中|新北|彰化|CHT|台|HINET)"
-emoji = "🇹🇼"
+emoji = "🇨🇳"
 
 [[emoji]]
 match = "(印度尼西亚|IDN|ID|Indonesia|印尼|雅加达)"
